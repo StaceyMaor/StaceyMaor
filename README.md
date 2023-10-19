@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @StaceyMaor
-- 👀 I’m interested in learning how to help others organize their projects.
-- 🌱 I’m currently learning more about strategy, delegation, and devops.
-- 💞️ I’m looking to collaborate on problem solving, improving efficiency, and driving effectiveness.
-- 📫 How to reach me: staceymaor@github.com
+- 👋 Hello, I am @StaceyMaor and I am a Senior Business Program Manager at GitHub
+- 👀 I am always looking for opportunities to improve the customer experience through tools and process.
+- 🌱 I enjoy mentorring and growing others through empowerment.
+- 💞️ I love to collaborate on problem solving, improving efficiency, and driving effectiveness.
+- 📫 How to reach me: staceymaor@github.com or stacey.maor@gmail.com
 
 <!---
 Smaor6800/Smaor6800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
