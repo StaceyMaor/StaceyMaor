@@ -1,4 +1,4 @@
-- 👋 Hello, I am @StaceyMaor and I am a Senior Business Program Manager at GitHub
+- 👋 Hello, I am @StaceyMaor and I am a Senior Business Program Manager in Customer Success at GitHub.
 - 👀 I am always looking for opportunities to improve the customer experience through tools and process.
 - 🌱 I enjoy mentorring and growing others through empowerment.
 - 💞️ I love to collaborate on problem solving, improving efficiency, and driving effectiveness.
